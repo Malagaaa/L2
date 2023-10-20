@@ -1,2 +1,5 @@
 i = 15
-print(not |)
+notI = not i
+inversI = ~i
+print(notI)
+print(inversI)
