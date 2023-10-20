@@ -3,3 +3,4 @@ notI = not i
 inversI = ~i
 print(notI)
 print(inversI)
+print(inversI)
