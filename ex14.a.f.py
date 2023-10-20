@@ -11,3 +11,5 @@ if rezultat == 1:                   # 0000 0000 0001 1001 = 25
     print("True")                   # 0000 0000 0000 0011 = 3 (25 >> 3) 
 else:                               # 0011 & 0001 = 0001 (3 & 1 = 1 = True)
     print("False")
+
+print(rezultat)
